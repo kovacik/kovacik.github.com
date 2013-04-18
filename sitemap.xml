@@ -2,15 +2,23 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://kovacik.github.io/about/</loc>
-        <lastmod>2013-04-12T23:01:39+02:00</lastmod>
+        <lastmod>2013-04-18T16:05:49+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kovacik.github.io/archives/</loc>
+        <lastmod>2013-04-18T14:55:19+02:00</lastmod>
     </url>
     <url>
         <loc>http://kovacik.github.io/blog/archives/</loc>
-        <lastmod>2013-04-12T16:48:51+02:00</lastmod>
+        <lastmod>2013-04-18T14:55:19+02:00</lastmod>
     </url>
     <url>
         <loc>http://kovacik.github.io/</loc>
-        <lastmod>2013-04-12T16:48:51+02:00</lastmod>
+        <lastmod>2013-04-18T14:55:19+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kovacik.github.io/projects/</loc>
+        <lastmod>2013-04-18T16:48:25+02:00</lastmod>
     </url>
     <url>
         <loc>http://kovacik.github.io/robots.txt</loc>

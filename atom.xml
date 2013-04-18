@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[AK Soft]]></title>
+  <title><![CDATA[akovacik]]></title>
   <link href="http://kovacik.github.io/atom.xml" rel="self"/>
   <link href="http://kovacik.github.io/"/>
-  <updated>2013-04-12T23:01:59+02:00</updated>
+  <updated>2013-04-18T16:53:45+02:00</updated>
   <id>http://kovacik.github.io/</id>
   <author>
     <name><![CDATA[Alojz Kovacik]]></name>
