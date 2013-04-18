@@ -6,8 +6,7 @@ sharing: false
 footer: false
 ---
 <p><img align="right" style="margin-left: 2em;" src="/images/mypic.png" alt="My pic"></p>
-<p>My name is Alojz Kovacik. I am a software enginneer with passion for real hardcore coding, kernel digging, optimization
-and computer graphics.</p>
+<p>My name is Alojz Kovacik. I am a software enginneer with passion for computer graphics, kernel digging and optimization.</p>
 <p>My CV available for <a href ="http://kovacik.github.com/downloads/kovacik_ENG.pdf">download</a> (.pdf).</p>
 
 <h4>A brief history</h4>
