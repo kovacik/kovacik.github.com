@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-This blog is under construction. You can look at <a href ="/projects">projects</a> and <a href ="/projects">about</a> section. 
+This blog is under construction. You can look at <a href ="/projects">projects</a> and <a href ="/about">about</a> section. 
