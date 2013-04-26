@@ -5,6 +5,7 @@ comments: false
 sharing: false
 footer: false
 ---
+
 <p><img align="right" style="margin-left: 2em;" src="/images/mypic.png" alt="My pic"></p>
 <p>My name is Alojz Kovacik. I am a software enginneer with passion for computer graphics, kernel digging and optimization.</p>
 
@@ -37,5 +38,5 @@ I was outsourced on quite an interesting project - multiplayer SDK for Microsoft
 <ul>
 <li>alojz (dot) kovacik (AT) gmail (dot) com</li>
 <li><a href ="http://www.linkedin.com/e/fpf/133259769">http://www.linkedin.com/e/fpf/133259769</a></li>
-<li><a href ="http://github.com/kovacik">http://github.com/kovacik</li>
+<li><a href ="http://github.com/kovacik">http://github.com/kovacik</a></li>
 </ul>
