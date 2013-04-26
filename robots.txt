@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kovacik.github.io/sitemap.xml 
+Sitemap: http://www.akovacik.com/sitemap.xml 

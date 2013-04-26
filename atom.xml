@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[alojz.kovacik]]></title>
-  <link href="http://kovacik.github.io/atom.xml" rel="self"/>
-  <link href="http://kovacik.github.io/"/>
-  <updated>2013-04-22T13:48:21+02:00</updated>
-  <id>http://kovacik.github.io/</id>
+  <link href="http://www.akovacik.com/atom.xml" rel="self"/>
+  <link href="http://www.akovacik.com/"/>
+  <updated>2013-04-26T11:51:08+02:00</updated>
+  <id>http://www.akovacik.com/</id>
   <author>
     <name><![CDATA[Alojz Kovacik]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[First blog post]]></title>
-    <link href="http://kovacik.github.io/blog/2013/04/22/first-blog-post/"/>
+    <link href="http://www.akovacik.com/blog/2013/04/22/first-blog-post/"/>
     <updated>2013-04-22T13:36:00+02:00</updated>
-    <id>http://kovacik.github.io/blog/2013/04/22/first-blog-post</id>
-    <content type="html"><![CDATA[<p>This blog is under construction. You can look at <a href ="http://kovacik.github.io/projects">projects</a> and <a href ="http://kovacik.github.io/about">about</a> section.</p>
+    <id>http://www.akovacik.com/blog/2013/04/22/first-blog-post</id>
+    <content type="html"><![CDATA[<p>This blog is under construction. You can look at <a href ="http://www.akovacik.com/projects">projects</a> and <a href ="http://www.akovacik.com/about">about</a> section.</p>
 ]]></content>
   </entry>
   
