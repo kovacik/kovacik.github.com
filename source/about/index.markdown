@@ -9,6 +9,10 @@ footer: false
 <p><img align="right" style="margin-left: 2em;" src="/images/mypic.png" alt="My pic"></p>
 <p>My name is Alojz Kovacik. I am a software enginneer with passion for computer graphics, kernel digging and optimization.</p>
 
+Born: 1986 - Rakova, small village in Kysuce region, Slovakia
+Current city: Bratislava, Slovakia
+For hiring managers: Willing to relocate either to Vancouver or California :-)
+
 <h4>A brief history</h4>
 
 <p>I attended the Comenius University in Bratislava, where I graduated with B.S. degree in Mathematics
